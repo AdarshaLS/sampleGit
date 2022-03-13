@@ -20,4 +20,10 @@ public class PracticeWell {
 		System.out.println("And Automation");
 	}
 
+	
+	@Test
+	public void practiceTest()
+	{
+		System.out.println("vivek first commit");
+	}
 }
